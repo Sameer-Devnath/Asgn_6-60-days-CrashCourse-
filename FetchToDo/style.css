@@ -1,0 +1,19 @@
+#container{
+    text-align: center;
+}
+.divs{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+#fetchTodo{
+    width: 10%;
+    height: 40px;
+    font-size: 20px;
+}
